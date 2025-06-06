@@ -2175,6 +2175,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Realtime + Gorilla Avatar
       objectReference: {fileID: 0}
+    - target: {fileID: 6133357424176075163, guid: e5575e7833155834880a0aaa7fc059a9, type: 3}
+      propertyPath: _joinRoomOnStart
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6693574861097370393, guid: e5575e7833155834880a0aaa7fc059a9, type: 3}
       propertyPath: _localPlayer.head
       value: 
