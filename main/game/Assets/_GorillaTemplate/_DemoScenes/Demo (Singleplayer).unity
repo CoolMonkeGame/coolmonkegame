@@ -1216,13 +1216,25 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 430285556596328393, guid: 5a221d46a09b7d54f98b12b55c7ee2fb, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 3ce5677f31fab4542a6864ba37f8890b, type: 2}
     - target: {fileID: 430285556925871859, guid: 5a221d46a09b7d54f98b12b55c7ee2fb, type: 3}
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 430285556925871861, guid: 5a221d46a09b7d54f98b12b55c7ee2fb, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 3ce5677f31fab4542a6864ba37f8890b, type: 2}
     - target: {fileID: 430285557273465589, guid: 5a221d46a09b7d54f98b12b55c7ee2fb, type: 3}
       propertyPath: m_Name
       value: Gorilla Rig
+      objectReference: {fileID: 0}
+    - target: {fileID: 430285557273465589, guid: 5a221d46a09b7d54f98b12b55c7ee2fb, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 430285557273465591, guid: 5a221d46a09b7d54f98b12b55c7ee2fb, type: 3}
       propertyPath: m_LocalPosition.x
